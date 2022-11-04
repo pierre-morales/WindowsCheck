@@ -1,2 +1,2 @@
 # WindowsCheck
-Command sequence to analize and repair windows 10
+Native WINDOWS commands packed into a BAT file (excecutable) to analize, repair and speed up windows 10 installation.
